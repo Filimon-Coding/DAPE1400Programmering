@@ -7,7 +7,7 @@ public class Welcome1 {
 
 
       System.out.println("Welcome to Java Programming!");
-   } // end method main
+   }// end method main
 } // end class Welcome1
 
 
