@@ -14,7 +14,7 @@ public class Ex2p33 {
 
         double BMI = ((weight) / (height * height));
 
-        System.out.printf("%s%d", "Din BMI er ", BMI);
+        System.out.printf("%s%f", "Din BMI er ", BMI);
 
     }
 }
